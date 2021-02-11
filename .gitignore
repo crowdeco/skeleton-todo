@@ -1,0 +1,4 @@
+.env
+!generated/.gitignore
+generated/*
+swaggers/apidocs-swagger.json
